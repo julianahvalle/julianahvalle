@@ -30,9 +30,11 @@
 <div align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=julianahvalle&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true" alt="julianavalles-s stats"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianahvalle&layout=compact&langs_count=16&theme=tokyonight" alt="julianahvalle-s most languages"/>
+  
+ ![Snake animation](https://github.com/julianahvalle/julianahvalle/blob/output/github-contribution-grid-snake.svg)
+  
 </div
-<br><br>
-  ![Snake animation](https://github.com/julianahvalle/julianahvalle/blob/output/github-contribution-grid-snake.svg)
+
 
 
   
