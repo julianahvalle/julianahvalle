@@ -8,12 +8,13 @@
  <img align="center" src="https://img.shields.io/badge/-ju_buubles-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <br><br>
+
 - 🔭 Atualmente trabalhando com análise de contratos
 - 🌱 Aprendendo NodeJS e React 
 - ⚡ Fun fact: Tenho uma gatinha chamada **Panqueca 🐈** e um cachorro chamado **Gordo 🐶**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
-
+<br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -23,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+<br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
@@ -31,8 +32,8 @@
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianahvalle&layout=compact&langs_count=16&theme=tokyonight" alt="julianahvalle-s most languages"/>
 </div
-
-</div>
   ![Snake animation](https://github.com/julianahvalle/julianahvalle/blob/output/github-contribution-grid-snake.svg)
+</div>
+
   
 
