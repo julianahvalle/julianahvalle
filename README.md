@@ -33,6 +33,6 @@
 </div
 
 </div>
-  <!--![Snake animation](https://github.com/julianahvalle/julianahvalle/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/julianahvalle/julianahvalle/blob/output/github-contribution-grid-snake.svg)
   
 
