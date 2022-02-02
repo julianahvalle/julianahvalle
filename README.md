@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/julianahvallefrasao/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-julianahvalle-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/ju_buubles" target="_blank">
+<a href="https://www.instagram.com/ju_bubbles/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ju_buubles-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <br><br>
