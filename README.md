@@ -11,7 +11,11 @@
 
 - 🔭 Atualmente trabalhando com análise de contratos
 - 🌱 Atualmente aprendendo NodeJS. 
-- 🚀 Rumo ao FullStack! 
+- 🚀 Tenho interesse em aprender mais sobre: <br>
+      - ReactJS; <br>
+      - Docker; <br>
+      - AWS; <br>
+      - Java 😱; <br>
 - ⚡ Fun fact: Tenho uma gatinha chamada **Panqueca 🐈** e um cachorro chamado **Gordo 🐶**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
