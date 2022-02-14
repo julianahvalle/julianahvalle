@@ -9,7 +9,7 @@
 </a>
 <br><br>
 
-- 🔭 Atualmente trabalhando com análise de contratos
+- 🔭 Desenvolvedora Front End
 - 🌱 Atualmente aprendendo React! 
 - 🚀 Tenho interesse em aprender mais sobre: <br>
       - NodeJS; <br>
