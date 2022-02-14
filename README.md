@@ -10,12 +10,11 @@
 <br><br>
 
 - 🔭 Atualmente trabalhando com análise de contratos
-- 🌱 Atualmente aprendendo NodeJS. 
+- 🌱 Atualmente aprendendo React! 
 - 🚀 Tenho interesse em aprender mais sobre: <br>
-      - ReactJS; <br>
+      - NodeJS; <br>
       - Docker; <br>
       - AWS; <br>
-      - Java 😱; <br>
 - ⚡ Fun fact: Tenho uma gatinha chamada **Panqueca 🐈** e um cachorro chamado **Gordo 🐶**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
