@@ -14,7 +14,7 @@
 
  <img align="right" height="300px" src="./images/Coding-amico.png">
 
-🛠️ Áreas em que atuo:<br>
+🌐 Desenvolvedora Full-Stack | 👾 Exploradora de AR/VR | 🛠️ Generalista em Tecnologia
 
 - **Web Development:** React, Typescript, NodeJS, ThreeJS
 - **DevOps & Infra:** Docker, GitHub Actions
