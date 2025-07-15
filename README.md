@@ -14,26 +14,31 @@
 
  <img align="right" height="300px" src="./images/Coding-amico.png">
 
-- 🔭 FrontEnd Developer
-- 🌱 Atualmente aprendendo React! 
-- 🚀 Tenho interesse em aprender mais sobre: <br>
-      - NodeJS; <br>
-      - Docker; <br>
-      - AWS; <br>
-- ⚡ Fun fact: Tenho uma gatinha chamada **Panqueca 🐈** e um cachorro chamado **Gordo 🐶**
+🛠️ Áreas em que atuo:<br>
+
+- **Web Development:** React, Typescript, NodeJS, ThreeJS
+- **DevOps & Infra:** Docker, GitHub Actions
+- **Realidade Aumentada e Virtual:** Unity, Unreal Engine, MindAR, Zappar, 8th Wall 
+- **Automação e Scripts:** Python
+- **Design de Experiências Imersivas:** UX para AR/VR, Interações em 3D
 <br><br>
 ## 🛠 &nbsp;Tech Stack
  
 <br><br>
 <p> <p>
 <img height="35px" hspace="10px" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img alt="NextJS" height="35" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
 <img height="35px" hspace="10px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="35px" hspace="10px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="35px" hspace="10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="35px" hspace="10px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img height="35px" hspace="10px" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <!-- <img height="35px" hspace="10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img height="35px" hspace="10px" alt="BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">-->
+<img height="35px" hspace="10px" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="35px" hspace="10px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="35px" hspace="10px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img height="35px" hspace="10px" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="35px" hspace="10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+<img alt="Docker" height="35" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+<img alt="Unreal" height="35" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Unreal.svg">
+<img alt="Unity" height="35" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Unity.svg">
+<img alt="Python" height="35" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+  
 </p>
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
