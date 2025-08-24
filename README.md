@@ -14,7 +14,7 @@
 
  <img align="right" height="300px" src="./images/Coding-amico.png">
 
-🌐 Desenvolvedora Full-Stack | 👾 Exploradora de AR/VR | 🛠️ Generalista em Tecnologia
+🌐 Desenvolvedora Front End | 👾 Exploradora de AR/VR 
 
 - **Web Development:** React, Typescript, NodeJS, ThreeJS
 - **DevOps & Infra:** Docker, GitHub Actions
